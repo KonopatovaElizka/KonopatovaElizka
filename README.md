@@ -22,7 +22,7 @@
 
 <ya-tr-span data-index="310-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="📈" data-translation="📈" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">📈</ya-tr-span> успешно строю карьеру: перешла на должность ведущего специалиста за полгода
 
-<ya-tr-span data-index="24-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🏝️" data-translation="🏝️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">🏝️</ya-tr-span> стремлюсь посещать новые места и города, где я еще не бывала
+<ya-tr-span data-index="24-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🏝️" data-translation="🏝️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">🏝️</ya-tr-span> стремлюсь посещать новые места и города
 
 <ya-tr-span data-index="172-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🎞️" data-translation="🎞️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="true">🎞️</ya-tr-span> любимый фильм [Круэлла](https://www.ivi.ru/watch/170649)
 
