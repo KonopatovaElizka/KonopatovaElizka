@@ -25,8 +25,6 @@
 
 <ya-tr-span data-index="40-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🥑" data-translation="🥑" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🥑</ya-tr-span> не представляю своей жизни без авокадо
 
-Связь со мной:  <div id="header" align="center">
-  <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="60" align="right" />
-</div>)](![image](![image](https://github.com/user-attachments/assets/24bb9f83-1601-46d7-bfb7-f36616ed619f)
-))
+Связь со мной: [![Telegram Badge](https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000)](![image](https://github.com/user-attachments/assets/26500722-8561-463f-b8e1-f758754dba83)
+)
 
