@@ -25,6 +25,7 @@
 
 <ya-tr-span data-index="40-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🥑" data-translation="🥑" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🥑</ya-tr-span> не представляю своей жизни без авокадо
 
-Связь со мной: [![Telegram Badge](https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000)](![image](https://github.com/user-attachments/assets/26500722-8561-463f-b8e1-f758754dba83)
-)
+Мой Telegram: @Elizkakk <div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/2f94a8cf-c3ca-4abc-b01b-aa0d71f82524" width="70" align="left" />
+</div>
 
