@@ -90,3 +90,22 @@
   
 </div>
 
+---
+
+## <ya-tr-span data-index="216-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="📚" data-translation="📚" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">📚</ya-tr-span> Тестовые артефакты
+
+[Определяем какое тестирование используем](https://docs.google.com/spreadsheets/d/1HKAhJLItSSabgcXqOCpemlejfVSbON2HuUYPHVY7XmY/edit?usp=sharing)
+
+[Анализ требований](https://docs.google.com/spreadsheets/d/1BZxxF-fsjB4jjrtmxuoHaefd_18e2XD_lpcwS1cahbE/edit?usp=sharing)
+
+[Техники тест-дизайна](https://github.com/KonopatovaElizka/design)
+
+[Тестовая документация](https://github.com/KonopatovaElizka/docs)
+
+[Работа с API](https://github.com/KonopatovaElizka/API)
+
+[SQL and NoSQL](https://github.com/KonopatovaElizka/database)
+
+[Тестирование веб-приложений](https://github.com/KonopatovaElizka/WEB)
+
+[Тестирование мобильных приложений](https://github.com/KonopatovaElizka/mobile)
