@@ -20,7 +20,7 @@
 
 <ya-tr-span data-index="186-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🌆" data-translation="🌆" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🌆</ya-tr-span> переехала из маленького города в многомиллионный мегаполис
 
-<ya-tr-span data-index="310-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="📈" data-translation="📈" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">📈</ya-tr-span> успешно строю карьеру и благодаря качественной работе перешла на должность Ведущего специалиста меньше, чем за год
+<ya-tr-span data-index="310-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="📈" data-translation="📈" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">📈</ya-tr-span> успешно строю карьеру: перешла на должность Ведущего специалиста за полгода
 
 <ya-tr-span data-index="24-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🏝️" data-translation="🏝️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;" data-selected="false">🏝️</ya-tr-span> стремлюсь посещать новые места и города, где я еще не бывала
 
