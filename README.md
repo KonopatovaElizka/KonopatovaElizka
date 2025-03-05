@@ -10,7 +10,7 @@
 
 <ya-tr-span data-index="49-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🏦" data-translation="🏦" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🏦</ya-tr-span> Работаю в банковской сфере 5 лет
 
-<ya-tr-span data-index="266-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🚀" data-translation="🚀" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🚀</ya-tr-span> Прохожу практическое обучение от [Artsiom Rusau](https://rusau.net/)
+<ya-tr-span data-index="266-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🚀" data-translation="🚀" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🚀</ya-tr-span> Прошла практическое обучение функциональному тестированию от [Artsiom Rusau](https://rusau.net/) и получила [сертификат](https://disk.yandex.ru/i/f7psgVKk8lrpDg)
 
 <ya-tr-span data-index="116-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🎚️" data-translation="🎚️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🎚️</ya-tr-span> 96 % практических заданий на обучении выполнено на высокий балл
 
